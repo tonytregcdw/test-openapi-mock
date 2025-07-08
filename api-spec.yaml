@@ -5,7 +5,7 @@ info:
   license:
     name: MIT
 servers:
-  - url: https://bwtt-app-uks-omp-frontend-prod.azurewebsites.net/api
+  - url: https://bwtt-app-uks-frontend-test-01.azurewebsites.net/api
 paths:
   /persons:
     get:
